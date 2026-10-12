@@ -10,6 +10,7 @@
 
 | 项目 | 说明 | 技术栈 |
 |---|---|---|
+| [亚马逊评论情感分类 · 代价敏感学习](https://github.com/kkkkk-tubu/amazon-review-cost-sensitive) | 自实现加权交叉熵与 Focal Loss，四组消融对照，得出可复现的负面结论 | scikit-learn · NumPy |
 | [交通标志识别与轻量化部署](https://github.com/kkkkk-tubu/gtsrb-traffic-sign) | 基于 GTSRB 数据集，负责数据预处理与增强消融实验 | PyTorch · ONNX |
 | [PCA+SVM 开放集人脸识别](https://github.com/kkkkk-tubu/pca-svm-face-recognition) | 独立设计基于重构误差阈值的开放集拒识机制 | scikit-learn |
 | [连连看小游戏](https://github.com/kkkkk-tubu/link-game) | 基于 BFS 实现二拐点连通判定算法 | Python · Tkinter |
